@@ -1,0 +1,14 @@
+{
+  "owner": "ai-relay-bench",
+  "name": "ai-relay-bench.github.io",
+  "visibility": "public",
+  "default_branch": "main",
+  "description": "按模型查看 AI 中转站公开快照对比，数据来自 Folkbench。",
+  "homepage": "https://ai-relay-bench.github.io/",
+  "topics": [
+    "llm",
+    "ai-api",
+    "relay",
+    "public-data"
+  ]
+}
