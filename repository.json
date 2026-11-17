@@ -3,12 +3,27 @@
   "name": "ai-relay-bench.github.io",
   "visibility": "public",
   "default_branch": "main",
-  "description": "按模型查看 AI 中转站公开快照对比，数据来自 Folkbench。",
+  "description": "按模型查看 AI 中转站公开快照对比，数据来自 Folkbench。 | 中转站对比：Claude / GPT / Gemini 同一模型在各API中转站的可用率、稳定性与价格（排序按站点规则，含合作档位与运营加权，部分数据为展示样本）",
   "homepage": "https://ai-relay-bench.github.io/",
   "topics": [
-    "llm",
     "ai-api",
+    "ai-relay",
+    "api-proxy",
+    "api-relay",
+    "benchmark",
+    "chatgpt",
+    "claude",
+    "claude-api",
+    "comparison",
+    "gemini",
+    "github-pages",
+    "gpt",
+    "llm",
+    "llm-api",
+    "openai",
+    "openai-api",
+    "public-data",
     "relay",
-    "public-data"
+    "relay-api"
   ]
 }
